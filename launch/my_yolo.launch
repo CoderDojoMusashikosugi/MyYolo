@@ -1,0 +1,5 @@
+<launch>
+    <node pkg="MyYolo" type="main.py" name="main" ns="main">
+	</node>
+
+</launch>
